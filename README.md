@@ -1,7 +1,7 @@
 # Lebanon Voter Roll Analyzer
   #### Video Demo:  <https://youtu.be/jHg4I4DT1-k>
   #### Description:
-    A command-line tool that analyzes registered-voter counts in Lebanon by
+  A command-line tool that analyzes registered-voter counts in Lebanon by
 religion and sect, comparing the 2018 and 2022 voter rolls for a given
 electoral district (or the whole country) and projecting the trend forward
 to 2028. It reads a CSV file, cleans it, calculates how each group changed,
