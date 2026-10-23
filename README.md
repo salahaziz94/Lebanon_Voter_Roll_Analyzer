@@ -1,5 +1,6 @@
 # Lebanon Voter Roll Analyzer
   #### Video Demo:  <https://youtu.be/jHg4I4DT1-k>
+  ![Beirut I Percentage](Beirut_I%20Percentage%20%25.png)
   #### Description:
   A command-line tool that analyzes registered-voter counts in Lebanon by
 religion and sect, comparing the 2018 and 2022 voter rolls for a given
