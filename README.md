@@ -14,7 +14,8 @@ not be read as a census. The data is also from Informational International,
 of which was manually collected into CSV files myself.
 
 ## Usage
-    python project.py 'csv-file', e.g., python project.py Beirut_I.csv
+    #python project.py 'csv-file', e.g., 
+    python project.py Beirut_I.csv
 
 Install the requirements first: `pip install -r requirements.txt`
 
